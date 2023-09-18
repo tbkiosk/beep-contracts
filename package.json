@@ -1,0 +1,24 @@
+{
+  "name": "beepcontracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/hardhat-upgrades": "^2.2.0",
+    "@typechain/hardhat": "^8.0.3",
+    "@typechain/truffle-v5": "^8.0.6",
+    "@uniswap/v3-core": "^1.0.1",
+    "ethers": "^6.7.1",
+    "hardhat": "^2.17.1",
+    "hardhat-ethers": "^1.0.1",
+    "hardhat-gas-reporter": "^1.0.9",
+    "typechain": "^8.3.1"
+  }
+}
