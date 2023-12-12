@@ -11,7 +11,7 @@
   "dependencies": {
     "@nomicfoundation/hardhat-toolbox": "^3.0.0",
     "@openzeppelin/contracts": "^4.9.3",
-    "@openzeppelin/hardhat-upgrades": "^2.2.0",
+    "@openzeppelin/hardhat-upgrades": "^3.0.0",
     "@typechain/hardhat": "^8.0.3",
     "@typechain/truffle-v5": "^8.0.6",
     "@uniswap/v3-core": "^1.0.1",
